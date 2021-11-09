@@ -13,6 +13,7 @@
 <div class="row">
     <div class="col-3"></div>
     <div class="col-6">
+        <h1>Udi</h1>
         <h3 class="text-info text-center">Register here</h3>
         <form method="post" action="register_handler.php">
             <input name="x" class="form-control"type="text"placeholder="Enter name"><br><br>
